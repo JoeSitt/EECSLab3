@@ -1,0 +1,72 @@
+profile
+{
+  display: block;
+  margin: auto;
+  width: 40%;
+}
+
+pointless{
+https://i.pinimg.com/736x/10/68/8f/10688f796ef3844dc857b37a4d1d407a--sponge-bob-spongebob-squarepants.jpg
+}
+
+p1
+{
+  font: 15px Imprint MT Shadow;
+  color: white;
+}
+
+p2
+{
+  font: 15px Imprint MT Shadow;
+  color: white;
+}
+
+p3
+{
+  font: 15px Imprint MT Shadow;
+  color: white;
+}
+
+p
+{
+  text-align: center;
+  font: 30px Impact, sans-serif;
+}
+
+ptext
+{
+  background-color: inherit;
+  color: white;
+}
+
+H1
+{
+  background-color: inherit;
+  color: white;
+}
+
+ptext:hover
+{
+  text-shadow: 2px 2px White;
+  color: black;
+
+}
+
+ptext1:hover{
+  color: blue;
+  font: 30px Chiller, Chiller;
+  text-shadow: 2px 2px #851700;
+}
+
+ptext1
+{
+  color: red;
+  font: 30px Chiller, Chiller;
+  text-shadow: 2px 2px #851700;
+  text-shadow: 2px 2px blue;
+}
+
+body
+{
+  background-color: black;
+}
